@@ -1,0 +1,63 @@
+
+
+
+
+body{
+    /* width: 400px; */
+    height:1000px;
+    background-color: gray;
+
+}
+
+
+.registration{
+    width: 400px;
+    height: 980px;
+    margin: auto;
+    background-color: cornflowerblue;
+    border-style: solid;
+    border-color: pink;
+    }
+
+    /* hr{
+        width: 200px;
+        color: white;
+    } */
+
+    h3{
+        text-align: center;
+        padding-top: 15px;
+        font-family: 'Gill sans';
+    }
+
+    form {
+        width:100px;
+        margin-left: 25px;
+    }
+
+    form label{
+        display: block;
+        margin: 10px 10px;
+        font-size: 13px;
+        border-right: 30px;
+        white-space: nowrap;
+    }
+
+    form input{
+        width: 350px;
+        padding: 5px;
+        border: 1px solid gray;
+        border-radius: 6px;
+        border-radius: 1px;
+        font-size: 10px;
+    }
+    input[type="button"]{
+        width: 350px;
+        height: 25px;
+        margin-top: 10px;
+        border-radius: 1px;
+        background-color: green;
+        color:white;
+        font-size: 12px;
+    }
+    
